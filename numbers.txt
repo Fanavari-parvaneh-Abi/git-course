@@ -1,9 +1,4 @@
 one
 
-two
-seven
-nine
-two
-seven
-nine
-fifteen
+three 
+five
